@@ -1,4 +1,4 @@
-# Project
+# SpectFlow Getting Started
 
 
 ## Give a Star! :star:
