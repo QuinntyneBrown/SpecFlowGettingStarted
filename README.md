@@ -1,4 +1,4 @@
-# SpectFlow Getting Started
+# SpecFlow Getting Started
 
 
 ## Give a Star! :star:
